@@ -4,7 +4,7 @@
 
 ## Description
 
-[OpenNebula](https://opennebula.org/) provider for [Terraform](https://www.terraform.io/).
+[OpenNebula](https://opennebula.io/) provider for [Terraform](https://www.terraform.io/).
 
 ## Development
 
